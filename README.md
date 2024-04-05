@@ -1,5 +1,5 @@
-#STRIPE WITH FLASK
+# STRIPE WITH FLASK
 
-##ADD stripe.api_key = "YOUR TEST/LIVE API KEY"
+## ADD stripe.api_key = "YOUR TEST/LIVE API KEY"
 
 ### ADD PRODUCT ID {(price:"YOUR PRODUCT API_KEY/ID")
